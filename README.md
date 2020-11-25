@@ -1,1 +1,1 @@
-# medical-tenology
+# tecnologiamedica
